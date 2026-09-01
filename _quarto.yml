@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Gradient Surfing"
+  navbar:
+    title: "🏄‍♂️ Gradient Surfing"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts/index.qmd
+        text: Posts
+      - href: about.qmd
+        text: About
+  site-url: "https://gradientsurfing.com"
+  description: "Notes and experiments from the changing surface of machine learning."
+  page-footer:
+    left: "© 2026 Gradient Surfing"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true

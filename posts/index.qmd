@@ -1,0 +1,12 @@
+---
+title: "Posts"
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+  feed: true
+---
+
+The archive is just getting started. Check back soon for the first post.

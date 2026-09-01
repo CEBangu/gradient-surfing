@@ -1,0 +1,49 @@
+---
+title: "Gradient Surfing"
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+<div class="hero-mark" aria-hidden="true">🏄‍♂️</div>
+
+<div class="eyebrow">FIELD NOTES FROM MACHINE LEARNING</div>
+
+# Ride the gradients.
+
+Notes, experiments, and visual explanations from the changing surface of machine learning.
+
+[Read the posts](posts/index.qmd){.hero-button}
+
+<div class="hero-ticker"><span>ESSAYS</span><span>EXPERIMENTS</span><span>VISUAL EXPLAINERS</span></div>
+:::
+
+## Recently from the lab
+
+::: {.post-grid}
+:::{.post-card}
+### First wave, coming soon
+
+The first Gradient Surfing post is in the works. Each article will pair an idea with the code, figures, and experiments behind it.
+
+[Browse the post archive →](posts/index.qmd)
+:::
+
+:::{.post-card}
+### Experiments belong with the writing
+
+This is a research notebook as much as a blog: implementations, configs, and the results that informed each post live in the same repository.
+
+[About this project →](about.qmd)
+:::
+:::
+
+::: {.wave-rule aria-hidden="true"}
+~~~
+:::
+
+::: {.manifesto}
+## What I’m trying to understand
+
+How learning systems move: through loss landscapes, representations, data, and the occasional unexpected breakthrough.
+:::

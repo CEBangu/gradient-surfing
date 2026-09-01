@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+# About Gradient Surfing
+
+Gradient Surfing is an independent ML blog about learning by building, measuring, and explaining.
+
+Posts pair an idea with its experiment whenever possible: the implementation, configuration, figures, and a clear account of what worked (and what did not).
+
+The site is published from the same repository that contains the experiments, so each post has a durable, inspectable home.

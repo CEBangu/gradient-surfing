@@ -1,49 +1,26 @@
 ---
 title: "Gradient Surfing"
+title-block: false
 page-layout: full
 toc: false
+format:
+  html:
+    body-classes: launch-page
 ---
 
 ::: {.hero}
-<div class="hero-mark" aria-hidden="true">🏄‍♂️</div>
+<div class="wave-lines" aria-hidden="true">
+  <svg viewBox="0 0 1200 560" preserveAspectRatio="none">
+    <path d="M-40 210 C120 55 250 355 410 210 S700 65 840 210 S1080 365 1240 180" />
+    <path d="M-60 310 C100 155 260 450 430 300 S700 135 875 310 S1090 460 1260 275" />
+    <path d="M-30 405 C145 250 280 535 470 390 S755 230 925 410 S1090 545 1230 365" />
+  </svg>
+</div>
+<div class="hero-mark hero-mark--floating" aria-hidden="true">🏄‍♂️</div>
 
 <div class="eyebrow">FIELD NOTES FROM MACHINE LEARNING</div>
 
-# Ride the gradients.
-
-Notes, experiments, and visual explanations from the changing surface of machine learning.
-
-[Read the posts](posts/index.qmd){.hero-button}
+# Coming Soon
 
 <div class="hero-ticker"><span>ESSAYS</span><span>EXPERIMENTS</span><span>VISUAL EXPLAINERS</span></div>
-:::
-
-## Recently from the lab
-
-::: {.post-grid}
-:::{.post-card}
-### First wave, coming soon
-
-The first Gradient Surfing post is in the works. Each article will pair an idea with the code, figures, and experiments behind it.
-
-[Browse the post archive →](posts/index.qmd)
-:::
-
-:::{.post-card}
-### Experiments belong with the writing
-
-This is a research notebook as much as a blog: implementations, configs, and the results that informed each post live in the same repository.
-
-[About this project →](about.qmd)
-:::
-:::
-
-::: {.wave-rule aria-hidden="true"}
-~~~
-:::
-
-::: {.manifesto}
-## What I’m trying to understand
-
-How learning systems move: through loss landscapes, representations, data, and the occasional unexpected breakthrough.
 :::
